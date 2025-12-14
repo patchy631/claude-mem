@@ -37,15 +37,13 @@
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://github.com/thedotmack/claude-mem">
-    <picture>
-      <img src="https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/cm-preview.gif" alt="Claude-Mem Preview" width="800">
-    </picture>
-  </a>
+  Claude-Mem seamlessly preserves long-term context by capturing tool usage, creating semantic summaries, and reusing them across sessions to maintain project continuity.
 </p>
+
+---
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
   <a href="#quick-start">Quick Start</a> •
@@ -57,9 +55,7 @@
   <a href="#license">License</a>
 </p>
 
-<p align="center">
-  Claude-Mem seamlessly preserves context across sessions by automatically capturing tool usage observations, generating semantic summaries, and making them available to future sessions. This enables Claude to maintain continuity of knowledge about projects even after sessions end or reconnect.
-</p>
+
 
 ---
 
